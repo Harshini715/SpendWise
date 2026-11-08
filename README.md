@@ -1,21 +1,21 @@
-# SpendWise
+# 💰 SpendWise - Smart Expense Tracker
 
-A Flutter app to track daily expenses, view balance and manage budget.
+Manage your money smartly! Track daily expenses, set budgets and save more.
 
-## Features
-- Add Expense with Category
-- View Total Spent and Balance
-- Filter by Category
-- Delete Expense
-- Budget Overview
+## ✨ Features
+- ➕ Add Expense
+- 📋 Expense List
+- 📊 Budget Overview
+- 🔍 Category Filter
 
+## 🛠️ Tech Stack
+- Language: Kotlin / Java
+- UI: XML, Material Design
+- IDE: Android Studio
 
-
-## How to Run
-1. Open in DartPad (dartpad.dev) - Select Flutter
-2. Paste lib/main.dart code
-3. Click Run
-## Team Members
+## 👥 Team Members
 - Harshini - Home Screen & Main Logic
 - Mounika - Expense List UI
 - Vedavarshini - Form Validation & Budget Overview
+
+Made with  by Team SpendWise
