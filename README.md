@@ -1,5 +1,5 @@
 # 💰 SpendWise - Smart Expense Tracker
-
+Team Name: SpendSquad
 Manage your money smartly! Track daily expenses, set budgets and save more.
 
 ## ✨ Features
